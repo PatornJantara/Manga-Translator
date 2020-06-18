@@ -19,12 +19,14 @@ Translate manga using Tesseract OCR
   pip install opencv-python
   pip install pillow
    ```
-<br /><br />
-** Example results **<br />
+   
+** Example results **
+
 ![translated](https://user-images.githubusercontent.com/56642026/84975191-fee1d580-b14e-11ea-9f5b-77d42c31fddc.png)<br />
 ![thai](https://user-images.githubusercontent.com/56642026/84975536-e1613b80-b14f-11ea-81a2-71c380ec2fc4.png)<br />
+
 ##  License
-<br />
+
 [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
  
 
