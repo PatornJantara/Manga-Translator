@@ -11,7 +11,7 @@ Translate manga using Tesseract OCR
   
  **installation**
  - For Tesseract OCR ,install laguages you need (japanese , japanese_vert) after installation finish, add folder path of Tesseract OCR to system variables / PATH
- - For Python modules open cmd and then type this command
+ - For Python modules open cmd and then type following commands
  
   ```bash
   pip install pytesseract
